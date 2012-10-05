@@ -10,7 +10,7 @@ void blinkLed(int delayTime) {
 }
 
 
-// arduino default funcions
+// arduino default functions
 
 void setup() {       
   pinMode(ledPin, OUTPUT);
